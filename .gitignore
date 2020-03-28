@@ -1,0 +1,4 @@
+# ignoring api_keys.py file
+
+WeatherPy/api_keys.py
+WeatherPy/gmaps_demo.ipynb
